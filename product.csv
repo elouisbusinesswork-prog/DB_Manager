@@ -1,0 +1,101 @@
+id,name,quantity,price,category
+1,Pet Camera with Treat Dispenser,271,149.99,Pets
+2,Educational STEM Kit,952,35.99,Toys
+3,Biodegradable Phone Case,820,23.99,Accessories
+4,Chic Ankle Strap Heels,963,69.99,Clothing - Shoes
+5,Honey Wheat Pretzels,154,3.49,Food - Snacks
+6,Wi-Fi Enabled Smart Light Switch,575,24.99,Smart Home
+7,Multi-Tool,719,39.99,Outdoor
+8,Almond Flour Cookies,780,4.99,Food - Bakery
+9,Athletic Jogging Jacket,623,49.99,Clothing - Outerwear
+10,Chocolate Syrup,88,2.99,Food - Condiments
+11,LED Strip Lights,205,19.99,Home
+12,Trainers with Mesh Inserts,500,69.99,Clothing - Footwear
+13,Gardening Tool Belt,302,22.99,Garden
+14,Cherry Almond Protein Bar,828,1.99,Food - Snacks
+15,Knitted Infinity Scarf,433,29.99,Clothing - Accessories
+16,Chipotle Sauce,46,3.29,Food - Condiments
+17,Chickpeas,778,1.29,Food - Canned Goods
+18,Electric Wax Warmer,653,22.99,Home
+19,Travel Eye Mask with Ear Plugs,448,15.99,Travel
+20,Oven Thermometer,780,11.99,Kitchen
+21,Chipotle Seasoning Blend,705,2.49,Food - Spices
+22,DIY Lip Balm Kit,628,22.99,Crafts
+23,Frozen Berry Blend,405,4.99,Food - Frozen Foods
+24,Backpacking Tent,120,109.99,Outdoor
+25,Cinnamon Rolls,613,4.49,Food - Bakery
+26,Pet Grooming Brush,773,19.99,Pets
+27,Kale & Quinoa Salad Mix,295,4.49,Food - Salads
+28,Lightweight Backpacking Tent,279,129.99,Outdoor
+29,Sesame Ginger Dressing,776,4.09,Food - Condiments
+30,Portable Refrigerator Freezer,28,299.99,Outdoor
+31,Organic Green Apples,11,1.49,Food - Produce
+32,Soft Plush Throw Blanket,454,29.99,Home
+33,Portable Laptop Table,259,39.99,Office
+34,Classic Chicken Noodle Soup,449,3.49,Food - Canned Goods
+35,Sports Windbreaker,819,44.99,Clothing - Outerwear
+36,Cranberry Almond Granola,707,4.29,Food - Breakfast
+37,Heat-Resistant Silicone Mat,588,19.99,Kitchen
+38,Reversible Swimming Pool Lounger,662,34.99,Outdoor
+39,Casual Long Cardigan,980,45.99,Clothing - Outerwear
+40,Mediterranean Flatbread,214,3.5,Food - Bakery
+41,Pet Safety Belt for Car,937,14.99,Pets
+42,Non-Stick Crepe Pan,985,29.99,Kitchen
+43,Smart Fitness Scale,74,49.99,Fitness
+44,Fruit and Nut Bars,63,1.99,Food - Snacks
+45,Cinnamon Roll Kit,218,6.89,Food - Baking
+46,Quinoa and Kale Salad Kit,46,5.29,Food - Salads
+47,Honey Glazed Carrots,836,3.49,Food - Produce
+48,Baked Falafel Balls,905,5.99,Food - Frozen Vegetables
+49,Roasted Sweet Corn,289,1.99,Food - Frozen
+50,Vegetable Quinoa Bowl,831,5.99,Food - Frozen Meals
+51,Golf Putting Green,345,79.99,Sports
+52,Manual Coffee Grinder,470,22.99,Kitchen
+53,Balsamic Vinaigrette,509,2.69,Food - Dressings
+54,Chiffon Blouse,595,39.99,Clothing - Shirts
+55,Baked Mac and Cheese,881,5.99,Food - Frozen Foods
+56,Ramen Noodles,845,0.99,Food - Pasta
+57,Asian Noodle Salad Kit,771,4.99,Food - Salads
+58,Chocolate Syrup,387,2.99,Food - Condiments
+59,Reversible Comforter Set,400,89.99,Home
+60,Garlic Butter Shrimp,323,8.99,Food - Seafood
+61,Thai Peanut Noodles,7,4.99,Food - Pasta
+62,Dish Rack,252,24.99,Kitchen
+63,Avocado Lime Dressing,887,4.29,Food - Condiments
+64,Cauliflower Gnocchi,567,3.59,Food - Frozen Foods
+65,Fitness Resistance Bands Set,638,34.99,Fitness
+66,Californian Raisins,230,3.19,Food - Dried Fruits
+67,Yoga Wheel,286,34.99,Fitness
+68,Creamy Tomato Basil Soup,306,3.29,Food - Canned Goods
+69,Electric Fondue Pot,365,39.99,Kitchen
+70,Coconut Bowls Set,659,22.99,Kitchen
+71,Ground Cinnamon,620,1.99,Food - Spices
+72,Strawberry Fruit Spread,865,3.59,Food - Jams & Jellies
+73,DIY Organic Gardening Kit,25,39.99,Garden
+74,Sea Salt Tortilla Chips,109,2.49,Food - Snacks
+75,Cat Tree,927,99.99,Pets
+76,Portable Air Compressor,530,44.99,Automotive
+77,Organic Black Rice,484,3.59,Food - Grains
+78,Mango Chunks,633,4.89,Food - Frozen Fruits
+79,Italian Sausage Links,316,5.99,Food - Meat & Poultry
+80,Peanut Butter Pretzel Bites,282,4.19,Food - Snacks
+81,Pumpkin Pie Spice,599,2.99,Food - Baking
+82,Scented Soy Candles,933,19.99,Home
+83,Portable SSD,911,129.99,Storage
+84,Pasta Primavera Kit,772,7.49,Food - Meal Kits
+85,Classic Pumps,495,64.99,Clothing - Footwear
+86,Homemade Salsa,967,3.79,Food - Condiments
+87,Action Camera,714,199.99,Electronics
+88,Savory Quinoa Pudding,493,2.99,Food - Sides
+89,Spaghetti and Meatball Dinner Kit,936,7.99,Food - Meal Kits
+90,Buttermilk Pancakes,655,3.99,Food - Breakfast
+91,Chipotle Seasoning Blend,197,2.49,Food - Spices
+92,Honey Roasted Chickpeas,665,3.29,Food - Snacks
+93,Homestyle Chicken Noodle Soup,178,2.99,Food - Canned Goods
+94,Outdoor Mosquito Repellent Lantern,608,34.99,Outdoor
+95,Luminous Night Light,65,15.99,Home
+96,Organic Blueberries,720,5.49,Food - Fruits
+97,Floral Summer Dress,431,39.99,Clothing - Dresses
+98,Decorative Throw Blanket,821,39.99,Home
+99,Car Phone Mount,0,15.99,Automotive
+100,Collapsible Camping Cup,0,9.99,Outdoor
